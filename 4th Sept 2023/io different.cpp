@@ -1,4 +1,4 @@
-// io different //
+// float int rep //
 #include<stdio.h>
 #include<math.h>
 int main()
